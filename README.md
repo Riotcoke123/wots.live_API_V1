@@ -52,7 +52,6 @@
           <p class="small">Returns the total follower count for the specified channel.</p>
         </div>
       </div>
-
       <div class="endpoint">
         <div class="method POST">POST</div>
         <div>
@@ -67,7 +66,6 @@
     </section>
     <section>
       <h2>Stream Status &amp; Playback</h2>
-
       <div class="endpoint">
         <div class="method GET">GET</div>
         <div>
@@ -75,7 +73,6 @@
           <p class="small">Returns live/offline status, viewer count, and current title.</p>
         </div>
       </div>
-
       <div class="endpoint">
         <div class="method GET">GET</div>
         <div>
