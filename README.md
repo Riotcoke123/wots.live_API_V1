@@ -107,7 +107,7 @@
       <h2>Availability</h2>
       <p class="small">
         The endpoints above are production-ready for streamer information and general service data.
-        Chat functionality is under active development; we will announce availability and provide integration guides once the refactor is complete.
+        Chat functionality is under active development
       </p>
     </section>
   </main>
