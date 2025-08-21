@@ -3,44 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Livebeam Public API for wots.live</title>
-  <style>
-    :root {
-      --bg: #0b0f13;
-      --panel: #121821;
-      --text: #e6edf3;
-      --muted: #a9b5c1;
-      --accent: #5b9cff;
-      --border: #1f2a36;
-      --code: #0e141b;
-      --success: #22c55e;
-      --warn: #f59e0b;
-    }
-    html, body { background: var(--bg); color: var(--text); font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif; margin: 0; }
-    .container { max-width: 980px; margin: 0 auto; padding: 48px 20px 80px; }
-    h1, h2, h3 { line-height: 1.2; margin: 0 0 12px; }
-    h1 { font-size: 2rem; }
-    h2 { font-size: 1.35rem; margin-top: 36px; padding-top: 8px; border-top: 1px solid var(--border); }
-    h3 { font-size: 1.05rem; margin-top: 24px; color: var(--muted); }
-    p { margin: 0 0 12px; color: var(--muted); }
-    a { color: var(--accent); text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 14px; padding: 18px; margin: 16px 0; }
-    .kvs { display: grid; grid-template-columns: 180px 1fr; gap: 10px 18px; }
-    .kvs div { padding: 6px 0; }
-    .tag { display: inline-block; font-size: 12px; padding: 2px 8px; border: 1px solid var(--border); border-radius: 999px; color: var(--muted); }
-    code, pre { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
-    pre { background: var(--code); border: 1px solid var(--border); border-radius: 10px; padding: 14px; overflow: auto; }
-    .endpoint { display: grid; grid-template-columns: 180px 1fr; gap: 10px 18px; align-items: start; padding: 14px; border: 1px solid var(--border); border-radius: 12px; background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.0)); margin-bottom: 12px; }
-    .method { font-weight: 700; }
-    .GET { color: var(--accent); }
-    .POST { color: var(--warn); }
-    .status-note { display: inline-flex; align-items: center; gap: 8px; padding: 10px 12px; border: 1px dashed var(--border); border-radius: 12px; background: rgba(91,156,255,0.06); }
-    .soon { color: var(--warn); font-weight: 600; }
-    .ok { color: var(--success); font-weight: 600; }
-    .mono { font-variant-ligatures: none; }
-    .small { font-size: 0.92rem; color: var(--muted); }
-  </style>
+
 </head>
 <body>
   <main class="container">
