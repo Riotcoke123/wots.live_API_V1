@@ -5,8 +5,9 @@
 
 </head>
 <body>
-  <IMG SRC="https://github-production-user-asset-6210df.s3.amazonaws.com/63672863/481830697-a48ca735-c317-4454-b241-8a8567eefcd1.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250825%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250825T223803Z&X-Amz-Expires=300&X-Amz-Signature=176d5809d2b4beb1d5dbe8da670e9e449e3d1e6c5f637570877408ca888224db&X-Amz-SignedHeaders=host">
-  <main class="container">
+
+
+<img width="533" height="138" alt="wots" src="https://github.com/user-attachments/assets/35008bb8-cf04-40dd-abe4-768f054abed0" />
     <header>
       <h1>Livebeam Public API for wots.live</h1>
       <p>
